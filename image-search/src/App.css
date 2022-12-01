@@ -1,0 +1,28 @@
+.main-search{
+  border-bottom: 1px solid gray;
+  padding: 10px;
+}
+.head-bkmark{
+  text-align: center;
+}
+.search-container{
+  align-items: center;
+  margin-left: auto;
+}
+.search{
+  width: 300px;
+  margin-left: 300px;
+  margin-right: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+.gridimage{
+  display: grid;
+grid-template-columns: auto auto auto;
+}
+.images{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+}
