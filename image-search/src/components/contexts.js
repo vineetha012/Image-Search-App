@@ -14,7 +14,8 @@ export function ImageSerachImagesHome() {
         response,
         error,
         fetchData,
-        bookmarkimgs,setbookmarkimgs
+        bookmarkimgs,
+        setbookmarkimgs
     }
     return (
         <>
